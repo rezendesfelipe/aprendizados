@@ -5,29 +5,37 @@ Resources, people, and platforms for learning about Data Engineering, Data Pipel
 ## Resources
 
 ### Books
-- Add your recommended books here
+- **[Book Title]** by Author Name - Brief description of what the book covers
+- **[Another Book]** by Author - What makes this book valuable
 
 ### Courses
-- Add your recommended courses here
+- **[Course Name]** by Instructor/Platform - [Link](URL) - What you'll learn and level (beginner/intermediate/advanced)
+- **[Another Course]** - Platform - Brief description
 
 ### Tutorials & Articles
-- Add your recommended tutorials and articles here
+- **[Tutorial/Article Title]** - [Link](URL) - Brief description of the topic covered
+- **[Another Tutorial]** - What it teaches
 
 ### Documentation & References
-- Add your recommended documentation and references here
+- **[Documentation Name]** - [Link](URL) - Official docs or reference material
+- **[API/Library Docs]** - What it documents
 
 ## People
 
 ### Engineers & Educators
-- Add influential people to follow here
+- **[Name]** - [Twitter/LinkedIn](URL) - Area of expertise and why to follow
+- **[Another Person]** - What they're known for
 
 ## Platforms
 
 ### Learning Platforms
-- Add online learning platforms here
+- **[Platform Name]** - [Link](URL) - What makes it useful and what it offers
+- **[Another Platform]** - Specialty or unique features
 
 ### Tools & Frameworks
-- Add data engineering tools and frameworks here
+- **[Tool/Framework Name]** - [Link](URL) - What it does and use cases
+- **[Another Tool]** - Main purpose
 
 ### Communities
-- Add communities and forums here
+- **[Community Name]** - [Link](URL) - Type (Discord/Slack/Forum) and focus area
+- **[Another Community]** - What kind of discussions happen there
