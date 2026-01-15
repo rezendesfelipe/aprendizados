@@ -14,11 +14,11 @@ Recursos, pessoas, e plataformas para aprender sobre engenharia de dados, pipeli
 <details>
 <summary><b> Cursos</b> </summary>
   <ul>
-<li><b>Databricks Fundamentals</b> por Databricks - Treinamento Gratuito. (Iniciante) - <a href="https://www.databricks.com/learn/training/databricks-fundamentals"> Linkdo curso</a></li>
+<li><b>Databricks Fundamentals</b> por Databricks - Treinamento Gratuito. (Iniciante) - <a href="https://www.databricks.com/learn/training/databricks-fundamentals"> Link do curso</a></li>
   </ul>
 
 - **[Nome do curso]** Por Instrutor/Plataforma - [Link](URL) - O que você vai aprender e nível (iniciante/intermediário/avançado)
-
+</details>
 ### Tutoriais e Artigos
 - **[Tutorial/Article Title]** - [Link](URL) - Breve descrição do tópico abordado
 
