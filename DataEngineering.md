@@ -11,9 +11,13 @@ Recursos, pessoas, e plataformas para aprender sobre engenharia de dados, pipeli
   <a href="https://www.amazon.com.br/Storytelling-com-Dados-Visualiza%C3%A7%C3%A3o-Profissionais/dp/8550804681/ref=asc_df_8550804681?mcid=f80ce23b22c63e9e88cb55d680c4b2cc&tag=googleshopp00-20&linkCode=df0&hvadid=709856848275&hvpos=&hvnetw=g&hvrand=208728973750994252&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198792&hvtargid=pla-812777209198&psc=1&language=pt_BR&gad_source=1">Storytelling com Dados</a></li>
   </ul>
 </details>
-### Cursos
+<details>
+<summary><b> Cursos</b> </summary>
+  <ul>
+<li><b>Databricks Fundamentals</b> por Databricks - Treinamento Gratuito. (Iniciante) - <a href="https://www.databricks.com/learn/training/databricks-fundamentals"> Linkdo curso</a></li>
+  </ul>
+
 - **[Nome do curso]** Por Instrutor/Plataforma - [Link](URL) - O que você vai aprender e nível (iniciante/intermediário/avançado)
-- **[Another Course]** - Platform - Brief description
 
 ### Tutoriais e Artigos
 - **[Tutorial/Article Title]** - [Link](URL) - Breve descrição do tópico abordado
